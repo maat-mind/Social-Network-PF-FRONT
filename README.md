@@ -28,6 +28,9 @@ necesarias para desarrollar una aplicación web completa y funcional.
 
 ![image](https://user-images.githubusercontent.com/57721146/214448891-208be5fc-13db-4631-92aa-0ea5f39d7150.png)
 
+![image](https://user-images.githubusercontent.com/57721146/214458490-998c0d27-1b92-4bb2-8904-722baeb66754.png)
+
+
 ## Ordenamiento por popularidad
 ![image](https://user-images.githubusercontent.com/57721146/214448828-b8b5df60-c8a3-484c-800c-c483a4b17c4d.png)
 
